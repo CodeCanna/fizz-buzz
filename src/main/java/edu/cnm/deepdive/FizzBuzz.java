@@ -1,5 +1,8 @@
 package edu.cnm.deepdive;
 
+/**
+ *Computes and returns a {@link String} of Fizz, Buzz, FizzBuzz, or the {@link String} representation of the value.
+ */
 public class FizzBuzz {
   static final String FIZZ = "Fizz";
   static final String BUZZ = "Buzz";
@@ -12,6 +15,12 @@ public class FizzBuzz {
     }
   }
 */
+
+  /**
+   * Takes an {@link int} and returns Fizz, Buzz, FizzBuzz, or the string form of the value itself.
+   * @param value The value we are checking for FizzBuzz.
+   * @return The returned {@link String} containing Fizz, Buzz, FizzBuzz, or String.valueof().
+   */
   public String getFizzBuzz(int value) {
     String text;
 
