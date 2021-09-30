@@ -1,1 +1,1 @@
-memberSearchIndex = [{"p":"edu.cnm.deepdive","c":"FizzBuzz","l":"FizzBuzz()","url":"%3Cinit%3E()"},{"p":"edu.cnm.deepdive","c":"FizzBuzz","l":"getFizzBuzz(int)"}]
+memberSearchIndex = [{"p":"edu.cnm.deepdive","c":"FizzBuzz","l":"FizzBuzz()","url":"%3Cinit%3E()"},{"p":"edu.cnm.deepdive","c":"FizzBuzz","l":"getFizzBuzz(int)"},{"p":"edu.cnm.deepdive","c":"FizzBuzz","l":"main(String[])","url":"main(java.lang.String[])"}]
